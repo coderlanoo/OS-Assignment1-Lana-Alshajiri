@@ -181,16 +181,16 @@
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**:
+### Entry 5 - [3 October, 2026]
+**What I did**: I ran the program again and reviewed the final output. I checked the three implemented features and verified that the repository and documentation were ready for submission.
 
-**Details**:
+**Details**: I verified the priority display, context switch counter, and waiting time table.
 
-**Challenges**:
+**Challenges**: I wanted to make sure the final version was ready before submission.
 
-**Solution**:
+**Solution**: I ran the program, reviewed the output, and checked the repository files.
 
-**Time spent**:
+**Time spent**: 20 minutes.
 
 ---
 
